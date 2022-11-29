@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img align="center" src="https://www.pixelstalk.net/wp-content/uploads/images6/Cool-Youtube-Backgrounds-Desktop.jpg">
+
 ## Available Scripts
 
 In the project directory, you can run:
